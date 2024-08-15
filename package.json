@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose camati",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "stream-chat": "^8.37.0"
+  }
+}
